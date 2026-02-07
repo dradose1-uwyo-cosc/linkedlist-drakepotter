@@ -11,7 +11,5 @@
 * https://gobyexample.com/errors
 * https://www.geeksforgeeks.org/go-language/main-and-init-function-in-golang/
 ## Project Quirks/ Things that don't work
-* example
-* example
-* example
+
 
